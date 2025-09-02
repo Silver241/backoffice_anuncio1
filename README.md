@@ -7,3 +7,5 @@ Para instalar dependências:
 Para rodar o programa siga as instruções:
 - cd frontend_proj_copia/frontend
 - npm run server
+- npm install axios (se necessário)
+
